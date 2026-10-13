@@ -1,0 +1,6 @@
+langchain
+langchain_community
+# langchain-openais
+# langchain-groq
+langchain-google-genai
+ipykernel
