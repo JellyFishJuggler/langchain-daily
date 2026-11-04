@@ -6,3 +6,5 @@ langchain-google-genai
 ipykernel
 langchain-ollama
 langsmith
+langchain-mcp-adapters
+mcp
