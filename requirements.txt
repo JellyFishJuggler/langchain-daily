@@ -8,3 +8,7 @@ langchain-ollama
 langsmith
 langchain-mcp-adapters
 mcp
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
